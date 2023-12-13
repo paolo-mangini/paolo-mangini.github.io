@@ -2,5 +2,5 @@
 title: Home
 ---
 
-![[parmi.png]]
+![[parmiggiano.jpg]]
 ![[propic.jpg|420]]
