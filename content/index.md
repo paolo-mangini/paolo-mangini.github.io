@@ -2,4 +2,5 @@
 title: Home
 ---
 
-![[propic.jpg]]
+![[parmi.png]]
+![[propic.jpg|420]]
