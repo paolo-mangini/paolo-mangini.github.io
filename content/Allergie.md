@@ -1,6 +1,5 @@
 **Disclaimer:** These ingredients reflect my allergies (from mild to severe). Please take them into consideration when inviting me for dinner. I promise it's not an elaborate way to avoid eating broccoli—I'm just looking out for my well-being! 🤣🍽️
 
----
 
 ## Dairy and Alternatives
 - Milk
