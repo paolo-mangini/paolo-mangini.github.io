@@ -1,33 +1,82 @@
-# Possible Food Allergies
+**Disclaimer:** These ingredients represent my allergies (from mild to severe). Please take them into consideration when inviting me for dinner. I promise it's not an elaborate way to avoid eating broccoli—I'm just looking out for my well-being! 🤣🍽️
 
-1. **Glutenphobia:**
-   - *Symptoms:* Sudden fear of gluten-filled foods. May result in excessive label reading and irrational avoidance of anything that remotely looks like bread.
+- Milk
+- Eggs
+- Tomatoes
+- Flour
+- Sugar
+- Butter
+- Salt
+- Pepper
+- Olive oil
+- Garlic
+- Onions
+- Chicken
+- Beef
+- Rice
+- Pasta
+- Cheese
+- Yogurt
+- Spinach
+- Broccoli
+- Carrots
+- Bell peppers
+- Cucumber
+- Lettuce
+- Avocado
+- Lemon
+- Lime
+- Cilantro
+- Basil
+- Oregano
+- Thyme
+- Rosemary
+- Ginger
+- Soy sauce
+- Honey
+- Mustard
+- Vinegar
+- Parmesan cheese
+- Mozzarella cheese
+- Cheddar cheese
+- Feta cheese
+- Sour cream
+- Mayonnaise
+- Ketchup
+- Mustard
+- Worcestershire sauce
+- Hot sauce
+- Maple syrup
+- Nutmeg
+- Cinnamon
+- Vanilla extract
+- Baking powder
+- Baking soda
+- Cocoa powder
+- Chocolate chips
+- Nuts (almonds, walnuts, etc.)
+- Dried fruits (raisins, cranberries, etc.)
+- Quinoa
+- Lentils
+- Chickpeas
+- Black beans
+- Kidney beans
+- Coconut milk
+- Tofu
+- Quinoa
+- Brown sugar
+- Agave nectar
+- Cornstarch
+- Paprika
+- Turmeric
+- Cumin
+- Coriander
+- Paprika
+- Bay leaves
+- Sesame seeds
+- Sunflower seeds
+- Pumpkin seeds
+- Ground flaxseed
+- Chia seeds
 
-2. **Lactoseintoleranceitis:**
-   - *Symptoms:* The inability to handle lactose, often accompanied by dramatic reenactments of a milkshake scene from a famous movie.
 
-3. **Nutcase Disorder:**
-   - *Symptoms:* Developing anxiety at the sight of nuts. May lead to intense interrogations of restaurant staff about the presence of hidden nuts.
-
-4. **Shellfish Surprise:**
-   - *Symptoms:* A shocking reaction to shellfish that leaves you more surprised than a plot twist in a mystery novel.
-
-5. **Soy-provoking Sensitivity:**
-   - *Symptoms:* Becoming highly emotional in the presence of soy products. Crying during tofu commercials is a common side effect.
-
-6. **Egg-xaggerated Aversion:**
-   - *Symptoms:* An extreme aversion to eggs, often manifested by running away from brunch spots like you're being chased by a giant omelet.
-
-7. **Dairy Drama Disorder:**
-   - *Symptoms:* Theatrical performances of dairy avoidance, complete with gasps and horror movie screams when faced with a cheese platter.
-
-8. **Corntraband Allergy:**
-   - *Symptoms:* Treating corn like a forbidden substance, complete with clandestine corn checks on ingredient labels.
-
-9. **Sesame Street Fear:**
-   - *Symptoms:* Terrified of anything related to sesame seeds. May involve the irrational belief that Big Bird is secretly sprinkling sesame seeds in your food.
-
-10. **Peanut Panic Syndrome:**
-    - *Symptoms:* A heightened state of alertness at the mere mention of peanuts. May lead to spontaneous nut-free zones in a 10-meter radius.
-
-Remember, laughter is the best medicine (unless you're allergic to jokes)!
