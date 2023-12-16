@@ -1,22 +1,33 @@
-**Disclaimer:** These ingredients represent my allergies (from mild to severe). Please take them into consideration when inviting me for dinner. I promise it's not an elaborate way to avoid eating broccoli—I'm just looking out for my well-being! 🤣🍽️
+**Disclaimer:** These ingredients reflect my allergies (from mild to severe). Please take them into consideration when inviting me for dinner. I promise it's not an elaborate way to avoid eating broccoli—I'm just looking out for my well-being! 🤣🍽️
 
+---
+
+## Dairy and Alternatives
 - Milk
-- Eggs
-- Tomatoes
-- Flour
-- Sugar
-- Butter
-- Salt
-- Pepper
-- Olive oil
-- Garlic
-- Onions
-- Chicken
-- Beef
-- Rice
-- Pasta
 - Cheese
 - Yogurt
+- Butter
+- Sour cream
+- Coconut milk
+
+---
+
+## Proteins
+- Chicken
+- Beef
+- Tofu
+- Quinoa
+- Lentils
+- Chickpeas
+- Black beans
+- Kidney beans
+
+---
+
+## Vegetables
+- Tomatoes
+- Garlic
+- Onions
 - Spinach
 - Broccoli
 - Carrots
@@ -24,59 +35,70 @@
 - Cucumber
 - Lettuce
 - Avocado
-- Lemon
-- Lime
-- Cilantro
+
+---
+
+## Herbs and Spices
+- Salt
+- Pepper
+- Olive oil
 - Basil
 - Oregano
 - Thyme
 - Rosemary
 - Ginger
-- Soy sauce
-- Honey
-- Mustard
-- Vinegar
-- Parmesan cheese
-- Mozzarella cheese
-- Cheddar cheese
-- Feta cheese
-- Sour cream
-- Mayonnaise
-- Ketchup
-- Mustard
-- Worcestershire sauce
-- Hot sauce
-- Maple syrup
-- Nutmeg
-- Cinnamon
-- Vanilla extract
-- Baking powder
-- Baking soda
-- Cocoa powder
-- Chocolate chips
-- Nuts (almonds, walnuts, etc.)
-- Dried fruits (raisins, cranberries, etc.)
-- Quinoa
-- Lentils
-- Chickpeas
-- Black beans
-- Kidney beans
-- Coconut milk
-- Tofu
-- Quinoa
-- Brown sugar
-- Agave nectar
-- Cornstarch
-- Paprika
+- Cilantro
 - Turmeric
 - Cumin
 - Coriander
 - Paprika
-- Bay leaves
+
+---
+
+## Sweeteners and Flavors
+- Sugar
+- Honey
+- Maple syrup
+- Vanilla extract
+- Agave nectar
+- Cinnamon
+- Nutmeg
+- Cocoa powder
+- Chocolate chips
+
+---
+
+## Grains and Baking
+- Flour
+- Rice
+- Pasta
+- Quinoa
+- Brown sugar
+- Baking powder
+- Baking soda
+- Cornstarch
+
+---
+
+## Condiments
+- Soy sauce
+- Mustard
+- Vinegar
+- Ketchup
+- Mayonnaise
+- Worcestershire sauce
+- Hot sauce
+
+---
+
+## Nuts and Seeds
+- Almonds
+- Walnuts
 - Sesame seeds
 - Sunflower seeds
 - Pumpkin seeds
 - Ground flaxseed
 - Chia seeds
+
 
 
