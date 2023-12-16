@@ -10,7 +10,7 @@ title: Home
 ## Personal Information
 
 - **Contact:** 99pakk@gmnail.com
-- **LinkedIn:** [Paolo Mangini]([https://www.linkedin.com/in/quantumquizzicus/](https://www.linkedin.com/company/parmareggio-spa/))
+- **LinkedIn:** ![Paolo Mangini]([https://www.linkedin.com/in/quantumquizzicus/](https://www.linkedin.com/company/parmareggio-spa/))
 - **Address:** <details><summary>PRIVATE INFO</summary></details>
 
 ## Education
