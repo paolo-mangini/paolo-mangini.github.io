@@ -9,56 +9,45 @@ title: Personal website by Paolo Mangini
 
 ## Personal Information
 
-- **Contact:** 99pakk@gmnail.com
+- **Contact:** 99pakk@gmail.com
 - **LinkedIn:** [Paolo Mangini](https://www.linkedin.com/in/paolo-mangini-71bb53290/)
 - **Address:** <details><summary>PRIVATE INFO</summary></details>
 
 ## Education
 **Master of Science in Physics**
 - *La Sapienza, University of Rome*
+- Period: 2021-2023
+- Mark: 110/110 cum laude
 - Thesis: "Warm inflation models with bounds inspired by String Theory"
 
 **Bachelor of Science in Physics**
 - *La Sapienza, University of Rome*
+- Period: 2018-2021
+- Mark: 110/110
 - Thesis: "Il look-elsewhere effect nella fisica delle particelle"
 
-## Research Experience
-**Quantum Cat Herding Experiment**
-- *Uncertainty University*
-- Investigated the entanglement of Schrödinger's cats while attempting to herd them into a coherent superposition.
+**Scientific high-school gradation**
+- *High school G.B Morgagni*
+- Period: 2013-2018
+- Mark: 100/100
 
-**Teleportation Mishap Analysis**
-- *Quantum Institute of Absurdity*
-- Studied the consequences of teleporting into the wrong dimension and developed strategies for retrieval.
+## Research Experience
+I am working,at now, with thesis advisors Raffale Tito D'Agnolo and Gabriele Rigo on an article about the Mutliverse (where is also presented in a short form the results obtained in the last chapter of the Master's thesis)
+
 
 ## Skills
-- Quantum Mechanics
-- Particle Physics
-- String Cheese Theory
-- Quantum Tea Brewing
-- Telepathic Communication (limited to imaginary friends)
-
-## Extracurricular Activities
-**Chairman of the Quantum Book Club**
-- Hosted discussions on literature that may or may not exist in this universe.
-
-**Quantum Stand-Up Comedy Night**
-- Performed stand-up routines about the uncertainty of life, wave-particle duality, and the mysterious disappearance of socks in laundry.
-
-## Awards and Honors
-- **Golden Particle Award**
-  - For exceptional contributions to the field of Quantum Nonsense.
+- QFT
+- Coding (C, C++, Python, Latex)
+- Use of Word and PowerPoint
 
 ## Hobbies
-- Quantum Yoga (attempting superposition poses)
-- Interdimensional Cooking (hoping the recipes work in all dimensions)
-- Parallel Universe Travel (in my dreams)
+- Reading
+- Chess (1750-1800 points on Chess.com)
+- Table Tennis / foosball / snooker / bowling
+- Padel
 
 ## Languages
-- Quantum Code (limited syntax, mostly random bits)
-
-## References
-Available upon request, but good luck contacting them—they might exist in another dimension.
-
-
+- Italian (Mothertongue)
+- English (at B2 level)
+- Spanish (Beginner level/A2)
 
