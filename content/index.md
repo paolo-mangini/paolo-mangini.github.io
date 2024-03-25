@@ -32,7 +32,10 @@ title: Personal website by Paolo Mangini
 - Mark: 100/100
 
 ## Research Experience
-I am working,at now, with thesis advisors Raffale Tito D'Agnolo and Gabriele Rigo on an article about the Mutliverse (where is also presented in a short form the results obtained in the last chapter of the Master's thesis)
+I am working,at now, with my Master's thesis advisors Raffale Tito D'Agnolo and Gabriele Rigo on an article about the Mutliverse (where is also presented in a short form the results obtained in the last chapter of the Master's thesis)
+
+## Other experiencies
+As occasional performance, I tutor, privately, in math and physics for high school guys
 
 
 ## Skills
@@ -48,6 +51,6 @@ I am working,at now, with thesis advisors Raffale Tito D'Agnolo and Gabriele Rig
 
 ## Languages
 - Italian (Mothertongue)
-- English (at B2 level)
+- English (B2 level)
 - Spanish (Beginner level/A2)
 
