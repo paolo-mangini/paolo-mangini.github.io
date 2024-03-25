@@ -1,8 +1,8 @@
 ---
-title: Home
+title: Personal website by Paolo Mangini
 ---
 
-![[parmi.png]]
+
 ![[propic.jpg|420]]
 
 # Curriculum Vitae
@@ -10,17 +10,17 @@ title: Home
 ## Personal Information
 
 - **Contact:** 99pakk@gmnail.com
-- **LinkedIn:** [Paolo Mangini](https://www.linkedin.com/company/parmareggio-spa/)
+- **LinkedIn:** [Paolo Mangini](https://www.linkedin.com/in/paolo-mangini-71bb53290/)
 - **Address:** <details><summary>PRIVATE INFO</summary></details>
 
 ## Education
 **Master of Science in Physics**
-- *Sapienza università di Roma*
-- Thesis: "MCU and beyond"
+- *La Sapienza, University of Rome*
+- Thesis: "Warm inflation models with bounds inspired by String Theory"
 
 **Bachelor of Science in Physics**
-- *Sapienza università di Roma*
-- Thesis: no
+- *La Sapienza, University of Rome*
+- Thesis: "Il look-elsewhere effect nella fisica delle particelle"
 
 ## Research Experience
 **Quantum Cat Herding Experiment**
