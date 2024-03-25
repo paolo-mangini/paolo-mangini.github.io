@@ -3,7 +3,7 @@ title: Personal website by Paolo Mangini
 ---
 
 
-![[propic.jpg|420]]
+![[Paolo Mangini-26.JPG|420]]
 
 # Curriculum Vitae
 
