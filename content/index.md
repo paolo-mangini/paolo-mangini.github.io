@@ -47,6 +47,7 @@ As occasional performance, I tutor, privately, in math and physics for high scho
 - Reading
 - Chess (1750-1800 points on Chess.com)
 - Table Tennis / foosball / snooker / bowling
+- Party/board games
 - Padel
 
 ## Languages
