@@ -9,7 +9,7 @@ title: Personal website by Paolo Mangini
 
 ## Personal Information
 
-- **Contact:** 99pakk@gmail.com
+- **Contact:** paolo.mangini.r@gmail.com
 - **LinkedIn:** [Paolo Mangini](https://www.linkedin.com/in/paolo-mangini-71bb53290/)
 - **Address:** <details><summary>PRIVATE INFO</summary></details>
 
@@ -26,16 +26,16 @@ title: Personal website by Paolo Mangini
 - Mark: 110/110
 - Thesis: "Il look-elsewhere effect nella fisica delle particelle"
 
-**Scientific high-school gradation**
+**Scientific high-school graduation**
 - *High school G.B Morgagni*
 - Period: 2013-2018
 - Mark: 100/100
 
 ## Research Experience
-I am working,at now, with my Master's thesis advisors Raffale Tito D'Agnolo and Gabriele Rigo on an article about the Mutliverse (where is also presented in a short form the results obtained in the last chapter of the Master's thesis)
+I have worked with my Master's thesis advisors Raffale Tito D'Agnolo and Gabriele Rigo on an article about the Multiverse and its relationship with the Swampland (where is also presented in a short form the results obtained in the last chapter of my Master's thesis). It was published in April 2024, and it can be found on [Arxiv](https://arxiv.org/abs/2404.13109).
 
 ## Other experiencies
-As occasional performance, I tutor, privately, in math and physics for high school guys
+As occasional performance, I tutor, privately, in math and physics for high school/university guys
 
 
 ## Skills
