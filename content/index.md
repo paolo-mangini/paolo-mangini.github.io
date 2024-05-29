@@ -41,6 +41,7 @@ As an occasional performance, I tutor, privately, in math and physics for high s
 - Coding (C, C++, Python)
 - Use of Latex
 - Use of Word and PowerPoint
+- Soft skills: public speaking, problem solving, teamwork, curiosity, organizational ability  
 
 ## Hobbies
 - Reading
