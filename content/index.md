@@ -9,6 +9,7 @@ title: Paolo Mangini's personal website
 
 ## Personal Information
 
+You can find my CV [here](standard_cv.pdf)
 
 ## Contacts
 
@@ -20,13 +21,13 @@ title: Paolo Mangini's personal website
 - *La Sapienza, University of Rome*
 - Period: 2021-2023
 - Mark: 110/110 cum laude
-- Thesis: ["Warm inflation models with bounds inspired by String Theory"] (Paolo Mangini Master's thesis (2).pdf)
+- Thesis: ["Warm inflation models with bounds inspired by String Theory"](Paolo Mangini Master's thesis (2).pdf)
 
 **Bachelor of Science in Physics**
 - *La Sapienza, University of Rome*
 - Period: 2018-2021
 - Mark: 110/110
-- Thesis: ["Il look-elsewhere effect nella fisica delle particelle"] (Il look elsewhere effect nella fisica delle particelle.pdf) (in italian)
+- Thesis: ["Il look-elsewhere effect nella fisica delle particelle"](Il look elsewhere effect nella fisica delle particelle.pdf) (in italian)
 
 **Scientific high-school graduation**
 - *High school G.B Morgagni*
