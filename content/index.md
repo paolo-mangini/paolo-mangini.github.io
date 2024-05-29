@@ -1,5 +1,5 @@
 ---
-title: Personal website by Paolo Mangini
+title: Paolo Mangini's personal website
 ---
 
 
