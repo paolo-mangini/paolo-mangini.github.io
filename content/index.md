@@ -11,7 +11,6 @@ title: Personal website by Paolo Mangini
 
 - **Contact:** paolo.mangini.r@gmail.com
 - **LinkedIn:** [Paolo Mangini](https://www.linkedin.com/in/paolo-mangini-71bb53290/)
-- **Address:** <details><summary>PRIVATE INFO</summary></details>
 
 ## Education
 **Master of Science in Physics**
@@ -32,23 +31,24 @@ title: Personal website by Paolo Mangini
 - Mark: 100/100
 
 ## Research Experience
-I have worked with my Master's thesis advisors Raffale Tito D'Agnolo and Gabriele Rigo on an article about the Multiverse and its relationship with the Swampland (where is also presented in a short form the results obtained in the last chapter of my Master's thesis). It was published in April 2024, and it can be found on [Arxiv](https://arxiv.org/abs/2404.13109).
+I have worked with my Master's thesis advisors Raffaele Tito D'Agnolo and Gabriele Rigo on an article about the Multiverse and its relationship with the Swampland (where is also presented in a short form the results obtained in the last chapter of my Master's thesis). It was published in April 2024, and it can be found on [arXiv](https://arxiv.org/abs/2404.13109).
 
-## Other experiencies
-As occasional performance, I tutor, privately, in math and physics for high school/university guys
+## Other experiences
+As an occasional performance, I tutor, privately, in math and physics for high school/university guys
 
 
 ## Skills
-- QFT
-- Coding (C, C++, Python, Latex)
+- Coding (C, C++, Python)
+- Use of Latex
 - Use of Word and PowerPoint
 
 ## Hobbies
 - Reading
 - Chess (1750-1800 points on Chess.com)
-- Table Tennis / foosball / snooker / bowling
+- Watching football and tennis
+- Foosball / snooker / bowling
 - Party/board games
-- Padel
+- Padel/ Table Tennis
 
 ## Languages
 - Italian (Mothertongue)
