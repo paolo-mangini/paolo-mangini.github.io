@@ -34,7 +34,7 @@ title: Paolo Mangini's personal website
 I have worked with my Master's thesis advisors Raffaele Tito D'Agnolo and Gabriele Rigo on an article about the Multiverse and its relationship with the Swampland (where is also presented in a short form the results obtained in the last chapter of my Master's thesis). It was published in April 2024, and it can be found on [arXiv](https://arxiv.org/abs/2404.13109).
 
 ## Other experiences
-As an occasional performance, I tutor, privately, in math and physics for high school/university guys
+As an occasional performance, I tutor, privately, in math and physics for high school/university students
 
 
 ## Skills
