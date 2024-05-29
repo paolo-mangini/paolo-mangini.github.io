@@ -23,7 +23,7 @@ title: Paolo Mangini's personal website
 - *La Sapienza, University of Rome*
 - Period: 2018-2021
 - Mark: 110/110
-- Thesis: ["Il look-elsewhere effect nella fisica delle particelle"] (file:///C:/Users/99PAK/OneDrive/Documenti/Tesi%20triennale/Il%20look%20elsewhere%20effect%20nella%20fisica%20delle%20particelle.pdf)
+- Thesis: "Il look-elsewhere effect nella fisica delle particelle" ![[Il look elsewhere effect nella fisica delle particelle.pdf]]
 
 **Scientific high-school graduation**
 - *High school G.B Morgagni*
