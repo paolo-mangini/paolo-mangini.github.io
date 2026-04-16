@@ -37,6 +37,10 @@ Birthday: 09/11/1999
 ## Research Experience
 I have worked with my Master's thesis advisors Raffaele Tito D'Agnolo and Gabriele Rigo on an article about the Multiverse and its relationship with the Swampland (where is also presented in a short form the results obtained in the last chapter of my Master's thesis). It was published in April 2024, and it can be found on [arXiv](https://arxiv.org/abs/2404.13109).
 
+Phd in La Sapienza, University of Rome
+- Period 01/2024 - in progress
+- Topic: Anomalous dimension computation for the dim-6 SMEFT operators
+
 ## Other experiences
 As an occasional performance, I tutor, privately, in math and physics for high school/university students
 
@@ -44,12 +48,13 @@ As an occasional performance, I tutor, privately, in math and physics for high s
 ## Skills
 - Coding (C, C++, Python)
 - Use of Latex
+- Use of Wolfram Mathematica
 - Use of Word and PowerPoint
-- Soft skills: public speaking, problem solving, teamwork, curiosity, organizational ability  
+- Soft skills: public speaking, problem solving, teamwork, curiosity, organizational ability, analytical thinking 
 
 ## Hobbies
 - Reading
-- Chess (1750-1800 points on Chess.com)
+- Chess (peak of 2200 points rapid on Chess.com)
 - Watching football and tennis
 - Foosball / Ball pool / bowling
 - Party/board games
@@ -57,6 +62,6 @@ As an occasional performance, I tutor, privately, in math and physics for high s
 
 ## Languages
 - Italian (Mothertongue)
-- English (B2 level)
-- Spanish (Beginner level/A2)
+- English (upper B2 level)
+- Spanish (Intermidiate level, B1-B2)
 
