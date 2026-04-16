@@ -38,7 +38,7 @@ Birthday: 09/11/1999
 I have worked with my Master's thesis advisors Raffaele Tito D'Agnolo and Gabriele Rigo on an article about the Multiverse and its relationship with the Swampland (where is also presented in a short form the results obtained in the last chapter of my Master's thesis). It was published in April 2024, and it can be found on [arXiv](https://arxiv.org/abs/2404.13109).
 
 Phd in La Sapienza, University of Rome
-- Period 01/2024 - in progress
+- Period 11/2024 - in progress
 - Topic: Anomalous dimension computation for the dim-6 SMEFT operators
 
 ## Other experiences
