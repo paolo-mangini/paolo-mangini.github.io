@@ -44,6 +44,8 @@ Phd in La Sapienza, University of Rome
 ## Other experiences
 As an occasional performance, I tutor, privately, in math and physics for high school/university students
 
+Partecipation to the GGI PhD school in fundamental interactions 2026 in Arcetri 
+(12-30/01/2026)
 
 ## Skills
 - Coding (C, C++, Python)
