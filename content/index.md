@@ -50,7 +50,7 @@ As an occasional performance, I tutor, privately, in math and physics for high s
 - Use of Latex
 - Use of Wolfram Mathematica
 - Use of Word and PowerPoint
-- Soft skills: public speaking, problem solving, teamwork, curiosity, organizational ability, analytical thinking 
+- Soft skills: public speaking, problem solving, teamwork, curiosity, organizational ability, analytical thinking, adaptability
 
 ## Hobbies
 - Reading
@@ -63,5 +63,5 @@ As an occasional performance, I tutor, privately, in math and physics for high s
 ## Languages
 - Italian (Mothertongue)
 - English (upper B2 level)
-- Spanish (Intermidiate level, B1-B2)
+- Spanish (Intermediate level, B1-B2)
 
