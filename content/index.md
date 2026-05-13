@@ -51,7 +51,7 @@ Partecipation to the GGI PhD school in fundamental interactions 2026 in Arcetri
 ## Projects
 
 Final group (three memebers) project for the bachelor exam "METODI DI INTELLIGENZA ARTIFICIALE E MACHINE LEARNING PER LA FISICA": my main contribution was on problem framing, conceptual approach, interpretation of results, and technical writing.
-[Relazione](Relazione_spettri_Raman.pdf)
+[Relazione (in italian)](Relazione_spettri_Raman.pdf)  
 [Notebook Google Colab](progetto_mangini_marfoli_lanciotti)
 
 ## Skills
