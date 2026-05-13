@@ -43,7 +43,7 @@ Phd in La Sapienza, University of Rome
 - Three months of international mobility period at University of Granada (Ugr - FTAE group) working on computation of one-loop observables in the SMEFT
 
 ## Other experiences
-As an occasional performance, I tutor, privately, in math and physics for high school/university students
+As an occasional performance, I tutor, privately, in math and physics for high school/university students (from 2021 to now)
 
 Partecipation to the GGI PhD school in fundamental interactions 2026 in Arcetri 
 (12-30/01/2026)
