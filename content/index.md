@@ -40,12 +40,18 @@ I have worked with my Master's thesis advisors Raffaele Tito D'Agnolo and Gabrie
 Phd in La Sapienza, University of Rome
 - Period 11/2024 - in progress
 - Topic: Anomalous dimension computation for the dim-6 SMEFT operators
+- Three months of international mobility period at University of Granada (Ugr - FTAE group) working on computation of one-loop observables in the SMEFT
 
 ## Other experiences
 As an occasional performance, I tutor, privately, in math and physics for high school/university students
 
 Partecipation to the GGI PhD school in fundamental interactions 2026 in Arcetri 
 (12-30/01/2026)
+
+## Projects
+
+Final group (three memebers) project for the exam "METODI DI INTELLIGENZA ARTIFICIALE E 
+MACHINE LEARNING PER LA FISICA": my main contribution was on problem framing, conceptual approach, interpretation of results, and technical writing
 
 ## Skills
 - Coding (C, C++, Python)
@@ -64,6 +70,6 @@ Partecipation to the GGI PhD school in fundamental interactions 2026 in Arcetri
 
 ## Languages
 - Italian (Mothertongue)
-- English (upper B2 level)
+- English (B2-C1 level)
 - Spanish (Intermediate level, B1-B2)
 
