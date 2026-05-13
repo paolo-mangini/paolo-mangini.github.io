@@ -11,6 +11,8 @@ title: Paolo Mangini's personal website
 
 Birthday: 09/11/1999
 
+City where I currently live: Rome
+
 ## Contacts
 
 - **E-mail:** paolo.mangini.r@gmail.com
@@ -29,7 +31,7 @@ Birthday: 09/11/1999
 - Mark: 110/110
 - [Thesis: "Il look-elsewhere effect nella fisica delle particelle"](Il_look_elsewhere_effect_nella_fisica_delle_particelle.pdf) (in italian)
 
-**Scientific high-school graduation**
+**Scientific high-school diploma**
 - *High school G.B Morgagni*
 - Period: 2013-2018
 - Mark: 100/100
@@ -68,7 +70,7 @@ Final group (three memebers) project for the bachelor exam "METODI DI INTELLIGEN
 - Watching football and tennis
 - Foosball / Ball pool / bowling
 - Party/board games
-- Padel/ Table Tennis
+- Padel/ Table Tennis / futsal
 
 ## Languages
 - Italian (Mothertongue)
