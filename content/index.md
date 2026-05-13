@@ -40,7 +40,7 @@ I have worked with my Master's thesis advisors Raffaele Tito D'Agnolo and Gabrie
 Phd in La Sapienza, University of Rome
 - Period 11/2024 - in progress
 - Topic: Anomalous dimension computation for the dim-6 SMEFT operators
-- Three months of international mobility period at University of Granada (Ugr - FTAE group) working on computation of one-loop observables in the SMEFT
+- Three months of international mobility period (04/02/2026-05/05/2026) at University of Granada (Ugr - FTAE group) working on computation of one-loop observables in the SMEFT
 
 ## Other experiences
 As an occasional performance, I tutor, privately, in math and physics for high school/university students (from 2021 to now)
@@ -57,6 +57,7 @@ Final group (three memebers) project for the bachelor exam "METODI DI INTELLIGEN
 ## Skills
 - Coding (C, C++, Python)
 - Use of Latex
+- Base level in SQL and Excel
 - Use of Wolfram Mathematica
 - Use of Word and PowerPoint
 - Soft skills: public speaking, problem solving, teamwork, curiosity, organizational ability, analytical thinking, adaptability
